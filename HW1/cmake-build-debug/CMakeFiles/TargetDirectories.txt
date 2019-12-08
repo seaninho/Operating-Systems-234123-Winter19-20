@@ -1,0 +1,3 @@
+D:/Courses/Operating Systems/Assignments/Git_Repo/Winter19-20/operating_systems/HW1/cmake-build-debug/CMakeFiles/HW1.dir
+D:/Courses/Operating Systems/Assignments/Git_Repo/Winter19-20/operating_systems/HW1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Courses/Operating Systems/Assignments/Git_Repo/Winter19-20/operating_systems/HW1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
