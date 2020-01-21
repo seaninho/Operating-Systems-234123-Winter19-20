@@ -58,7 +58,7 @@ class List
       {
         // If our list is empty, the new inserted node becomes its head
         Node* newNode = new Node(data);
-        prev = newNode;
+        head = newNode;
         pthread_mutex_lock(&list_mutex);
         size++;
         pthread_mutex_unlock(&list_mutex);
