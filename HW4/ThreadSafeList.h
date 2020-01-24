@@ -112,7 +112,7 @@ class List {
 				pthread_mutex_unlock(&prev->node_mutex);
 				return false;
 			}
-
+			// lock 1st node
 			Node *curr = prev->next;
 			pthread_mutex_lock(&curr->node_mutex);
 
